@@ -1,7 +1,7 @@
 import React from "react";
 
 import {
-  // AboutUs,
+  AboutUs,
   // Chef,
   // FindUs,
   // Footer,
@@ -19,10 +19,10 @@ function App() {
     <div>
       <Navbar />
       <Header />
+      <AboutUs />
     </div>
   );
 }
-// <AboutUs />
 // <SpecialMenu />
 // <Chef />
 // <Intro />
