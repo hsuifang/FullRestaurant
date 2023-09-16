@@ -6,10 +6,10 @@ import {
   // FindUs,
   // Footer,
   // Gallery,
-  Header
+  Header,
   // Intro,
   // Laurels,
-  // SpecialMenu
+  SpecialMenu
 } from "./container";
 import { Navbar } from "./components";
 import "./App.css";
@@ -20,10 +20,10 @@ function App() {
       <Navbar />
       <Header />
       <AboutUs />
+      <SpecialMenu />
     </div>
   );
 }
-// <SpecialMenu />
 // <Chef />
 // <Intro />
 // <Laurels />
