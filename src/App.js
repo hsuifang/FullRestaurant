@@ -4,7 +4,7 @@ import {
   AboutUs,
   Chef,
   FindUs,
-  // Footer,
+  Footer,
   Gallery,
   Header,
   Intro,
@@ -26,9 +26,9 @@ function App() {
       <Laurels />
       <Gallery />
       <FindUs />
+      <Footer />
     </div>
   );
 }
-// <Footer />
 
 export default App;
