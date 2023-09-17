@@ -7,7 +7,7 @@ import {
   // Footer,
   // Gallery,
   Header,
-  // Intro,
+  Intro,
   // Laurels,
   SpecialMenu
 } from "./container";
@@ -22,10 +22,10 @@ function App() {
       <AboutUs />
       <SpecialMenu />
       <Chef />
+      <Intro />
     </div>
   );
 }
-// <Intro />
 // <Laurels />
 // <Gallery />
 // <FindUs />
