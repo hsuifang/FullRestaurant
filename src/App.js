@@ -2,7 +2,7 @@ import React from "react";
 
 import {
   AboutUs,
-  // Chef,
+  Chef,
   // FindUs,
   // Footer,
   // Gallery,
@@ -21,10 +21,10 @@ function App() {
       <Header />
       <AboutUs />
       <SpecialMenu />
+      <Chef />
     </div>
   );
 }
-// <Chef />
 // <Intro />
 // <Laurels />
 // <Gallery />
