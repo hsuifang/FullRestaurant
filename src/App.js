@@ -8,7 +8,7 @@ import {
   // Gallery,
   Header,
   Intro,
-  // Laurels,
+  Laurels,
   SpecialMenu
 } from "./container";
 import { Navbar } from "./components";
@@ -23,10 +23,10 @@ function App() {
       <SpecialMenu />
       <Chef />
       <Intro />
+      <Laurels />
     </div>
   );
 }
-// <Laurels />
 // <Gallery />
 // <FindUs />
 // <Footer />
