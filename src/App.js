@@ -5,7 +5,7 @@ import {
   Chef,
   // FindUs,
   // Footer,
-  // Gallery,
+  Gallery,
   Header,
   Intro,
   Laurels,
@@ -24,10 +24,10 @@ function App() {
       <Chef />
       <Intro />
       <Laurels />
+      <Gallery />
     </div>
   );
 }
-// <Gallery />
 // <FindUs />
 // <Footer />
 
